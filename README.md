@@ -1,16 +1,18 @@
 # connection_failed
 
-A new Flutter project.
+## What packages I've used to build it?
 
-## Getting Started
+## animated_text_kit: any
 
-This project is a starting point for a Flutter application.
+![Output sample](ezgif.com-video-to-gif(2).gif)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## What I've learned ?
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- How to implement text animation.
+- How to use page.builder widget
+
+
+
+>Feel free visit my webpage to see more details (http://www.marialijideveloper.com/)
+
